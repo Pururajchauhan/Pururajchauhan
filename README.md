@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Pururajchauhan/Pururajchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Pururaj Chauhan.
 
-Here are some ideas to get you started:
+🎓 Aspiring Data Scientist with a strong interest in Data Analytics, Statistics, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I work with data to uncover insights, build predictive models, and solve real-world problems. Currently expanding my skills in Python, SQL, Machine Learning, Statistics, and Data Visualization.
+
+🚀 Passionate about continuous learning and building projects that combine data, technology, and business understanding.
+
+### 🛠️ Skills & Tools
+- Python
+- SQL (MySQL)
+- Statistics
+- Machine Learning
+- Pandas & NumPy
+- Data Visualization
+- Tableau
+- Streamlit
+- Git & GitHub
+
+### 🌱 Currently Learning
+- Advanced Machine Learning
+- Statistical Analysis
+- Feature Engineering
+- Model Evaluation & Optimization
+- Data Science Best Practices
+
+### 🎯 Career Goal
+To become a Data Scientist capable of transforming complex data into actionable insights and intelligent solutions.
+
+> "Data is the new oil, but insights are the real fuel."
+>
+## My Github Stats
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pururajchauhan)
+
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pururajchauhan)
+
+![Github stats 3](https://github-readme-stats.vercel.app/api?username=Pururajchauhan)
