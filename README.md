@@ -34,6 +34,6 @@ To become a Data Scientist capable of transforming complex data into actionable 
 ## My Github Stats
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Pururajchauhan)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pururajchauhan)
+![Github stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=Pururajchauha)
 
 ![Github stats 3](https://github-readme-stats.vercel.app/api?username=Pururajchauhan)
